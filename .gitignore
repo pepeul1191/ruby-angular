@@ -1,0 +1,4 @@
+app/vendor/*
+public/bower_components/*
+app/templates_c/*
+app/cache/*
