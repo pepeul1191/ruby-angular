@@ -2,11 +2,11 @@
 
 Para descargar las dependencias:
 
- 	$ composer update
+ 	$ bundler install
 
 Para recargar el autoload de clases:
 
- 	$ composer dump-autoload -o
+ 	$ rerun "ruby app.rb -p [port]"
 
  Thanks/Credits
 
